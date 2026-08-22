@@ -89,12 +89,6 @@ button.cancel {
   padding-left: 3px;
 }
 
-.text {
-  display: flex;
-  flex-shrink: 2;
-  text-align: left;
-}
-
 .hc{
   display: flex;
   width: 428px;
